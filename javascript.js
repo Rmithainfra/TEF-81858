@@ -137,7 +137,7 @@ function updateDegreeScale() {
     var initialYaw = {
       "image-1": 0,
       "image-2": 0,
-      "image-3": 4,
+      "image-3": 7,
       "image-4": 4,
     //   "image-5": 16
     };
